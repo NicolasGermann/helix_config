@@ -3,6 +3,9 @@ theme = "ayu_mirage"
 [editor.soft-wrap]
 enable = true
 
+[editor]
+true-color = true
+
 [keys.normal]
 "A-g" = [":new", ":insert-output lazygit", ":buffer-close!", ":redraw"]
 
